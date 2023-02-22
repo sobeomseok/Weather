@@ -8,6 +8,7 @@ target 'Weather' do
   # Pods for Weather
   pod 'SnapKit'
   pod 'Then'
+  pod 'Realm'
 
   target 'WeatherTests' do
     inherit! :search_paths
